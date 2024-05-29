@@ -1,0 +1,7 @@
+﻿@media print {
+       @page{
+           size: B5 portrait;
+           margin: 2cm;
+       }
+
+}
